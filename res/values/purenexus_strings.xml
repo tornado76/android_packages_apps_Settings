@@ -205,6 +205,17 @@
     <string name="app_notification_show_on_keyguard_summary">Show notifications from this app on the lockscreen</string>
     <string name="app_notification_no_ongoing_on_keyguard_title">Disable ongoing on lockscreen</string>
     <string name="app_notification_no_ongoing_on_keyguard_summary">Never show ongoing notifications from this app on the lockscreen</string>
+    <!-- Heads Up Notifications -->
+    <string name="title_heads_up">Heads up notifications</string>
+    <string name="add_heads_up_package">Add app</string>
+    <string name="add_heads_up_dnd_summary">Don\'t show heads up in these applications</string>
+    <string name="add_heads_up_blacklist_summary">Don\'t show heads up from these applications</string>
+    <string name="add_heads_up_whitelist_summary">Force heads up from these applications</string>
+    <string name="heads_up_dnd_title">Do not disturb</string>
+    <string name="heads_up_blacklist_title">Blacklist</string>
+    <string name="heads_up_whitelist_title">Whitelist</string>
+    <string name="heads_up_disabled_notice">To allow applications to display interactive notifications in a pop-up window on your screen, enable Heads up.</string>
+    <string name="heads_up_contains_key">Already added this application to the list</string>
 
 <!-- Security Settings -->
     <!-- App ops permissions -->
