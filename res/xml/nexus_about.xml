@@ -87,9 +87,10 @@
             android:title="@string/surge"
        	    android:summary="@string/tweak_sum"/>
 
-      <Preference
+      <PreferenceScreen
             android:title="@string/bajasur"
-       	    android:summary="@string/tweak_sum"/>
+       	    android:summary="@string/tweak_sum"
+            android:fragment="com.pure.settings.PureSettings" />
 
     </PreferenceCategory>
 
