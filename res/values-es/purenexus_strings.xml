@@ -172,7 +172,7 @@
 
 <!-- Sound & Notification Settings -->
     <!-- Linked / unlinked notification volume -->
-    <string name="link_volume_option_title">Enlazar volumen del tono de llamada y notificaciones</string>
+    <string name="link_volume_option_title">Unir volúmenes de llamada y notificaciones</string>
     <string name="notification_volume_option_title">Volumen de notificaciones</string>
     <string name="ring_notification_volume_option_title">Volumen de llamada y notificaciones</string>
     <!-- Increasing ring tone volume -->
