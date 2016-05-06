@@ -23,7 +23,7 @@
   <!-- Dashboard -->
     <string name="header_category_custom">Control Avanzado</string>
     <string name="supersu_title">SuperSU</string>
-    <string name="custom_settings_title">Ajustes PureNexus</string>
+    <string name="custom_settings_title">Ajustes de PureNexus</string>
     <string name="themes_settings_title">Temas</string>
     <string name="google_title">Google</string>
     <string name="bitsyko_layers">Layers Manager</string>
